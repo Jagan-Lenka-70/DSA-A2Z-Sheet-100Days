@@ -75,10 +75,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
