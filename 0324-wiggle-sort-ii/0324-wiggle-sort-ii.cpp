@@ -2,18 +2,23 @@ class Solution {
 public:
     void wiggleSort(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin(), nums.end(), greater<int>());
-        vector<int>v(n);
-        int j=0;
-        for(int i=1;i<n;i+=2){
-            v[i] = nums[j];
-            j++;
-        }
+        nth_element(nums.begin(), nums.begin() + n / 2, nums.end());
+        int mid = *(nums.begin() + n / 2);
         
-        for(int i=0;i<n;i+=2){
-            v[i] = nums[j];
-            j++;
+        #define arr(i) nums[(1 + 2 * (i)) % (n | 1)]
+        
+        int i = 0;
+        int j = 0;
+        int k = n - 1;
+        
+        while (j <= k) {
+            if (arr(j) > mid) {
+                swap(arr(i++), arr(j++));
+            } else if (arr(j) < mid) {
+                swap(arr(j), arr(k--));
+            } else {
+                j++;
+            }
         }
-        nums = v;
     }
 };
