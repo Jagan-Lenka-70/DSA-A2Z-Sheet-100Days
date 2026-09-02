@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0152-maximum-product-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
