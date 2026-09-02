@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
 ## Tree
@@ -87,6 +89,7 @@
 | [0016-3sum-closest](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
@@ -95,4 +98,12 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
