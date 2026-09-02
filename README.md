@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0152-maximum-product-subarray) |
+## Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
+## Binary Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 <!---LeetCode Topics End-->
