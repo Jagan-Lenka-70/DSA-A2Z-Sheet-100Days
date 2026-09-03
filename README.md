@@ -18,6 +18,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
