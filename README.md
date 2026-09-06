@@ -140,4 +140,8 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1004-max-consecutive-ones-iii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
