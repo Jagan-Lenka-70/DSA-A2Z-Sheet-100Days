@@ -148,4 +148,8 @@
 | [1148-article-views-i](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
