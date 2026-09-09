@@ -55,18 +55,21 @@
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 ## Greedy
 |  |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3870-count-commas-in-range) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
