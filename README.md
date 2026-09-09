@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -53,16 +54,19 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 ## Greedy
 |  |
