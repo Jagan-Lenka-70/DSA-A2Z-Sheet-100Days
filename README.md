@@ -167,4 +167,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0543-diameter-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
