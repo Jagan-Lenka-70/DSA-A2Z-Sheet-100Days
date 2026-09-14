@@ -164,6 +164,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3870-count-commas-in-range) |
 ## DP on Trees
 |  |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0024-swap-nodes-in-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
