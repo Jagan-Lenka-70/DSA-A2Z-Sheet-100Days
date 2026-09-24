@@ -26,6 +26,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3525-find-x-value-of-array-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@
 | [0836-rectangle-overlap](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3525-find-x-value-of-array-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3870-count-commas-in-range) |
 ## DP on Trees
 |  |
