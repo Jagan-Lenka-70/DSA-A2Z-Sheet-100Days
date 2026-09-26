@@ -24,6 +24,7 @@
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3525-find-x-value-of-array-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -129,6 +131,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Stack
 |  |
 | ------- |
