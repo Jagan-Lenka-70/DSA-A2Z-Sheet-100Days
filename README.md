@@ -131,11 +131,13 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
