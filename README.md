@@ -24,6 +24,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -159,6 +161,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -228,4 +231,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
