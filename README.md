@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@
 | [0015-3sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
 ## Quickselect
@@ -122,6 +124,7 @@
 | [0018-4sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
@@ -217,4 +220,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
