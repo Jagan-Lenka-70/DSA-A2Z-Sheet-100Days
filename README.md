@@ -29,6 +29,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2540-minimum-common-value) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2784-check-if-array-is-good](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2784-check-if-array-is-good) |
 | [3525-find-x-value-of-array-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3525-find-x-value-of-array-ii) |
@@ -42,6 +43,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2784-check-if-array-is-good) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -136,6 +138,7 @@
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
+| [2540-minimum-common-value](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2540-minimum-common-value](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
