@@ -148,6 +148,7 @@
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2810-faulty-keyboard](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2810-faulty-keyboard) |
 ## Stack
 |  |
 | ------- |
@@ -247,4 +248,5 @@
 |  |
 | ------- |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2810-faulty-keyboard](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
