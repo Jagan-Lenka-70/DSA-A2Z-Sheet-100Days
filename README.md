@@ -30,6 +30,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2784-check-if-array-is-good](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2784-check-if-array-is-good) |
 | [3525-find-x-value-of-array-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -41,6 +42,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2784-check-if-array-is-good](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2784-check-if-array-is-good) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -106,6 +108,7 @@
 | [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
+| [2784-check-if-array-is-good](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2784-check-if-array-is-good) |
 ## Quickselect
 |  |
 | ------- |
