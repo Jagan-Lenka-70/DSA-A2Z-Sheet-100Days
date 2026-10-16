@@ -213,6 +213,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0024-swap-nodes-in-pairs) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
