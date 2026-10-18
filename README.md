@@ -139,6 +139,7 @@
 | [0141-linked-list-cycle](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0234-palindrome-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
@@ -219,12 +221,14 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0234-palindrome-linked-list) |
 ## Geometry
 |  |
 | ------- |
