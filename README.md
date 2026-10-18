@@ -16,6 +16,7 @@
 | [0152-maximum-product-subarray](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -141,6 +143,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
 | [2540-minimum-common-value](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2540-minimum-common-value) |
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -268,4 +272,9 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
