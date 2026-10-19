@@ -135,6 +135,7 @@
 | [0015-3sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0142-linked-list-cycle-ii) |
