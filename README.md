@@ -19,6 +19,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0643-maximum-average-subarray-i) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
@@ -118,6 +120,7 @@
 | [0018-4sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
 | [2784-check-if-array-is-good](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2784-check-if-array-is-good) |
 ## Quickselect
@@ -152,6 +155,7 @@
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
 | [2540-minimum-common-value](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/2540-minimum-common-value) |
 ## String
@@ -264,6 +268,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
