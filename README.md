@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 ## Depth-First Search
@@ -86,6 +88,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
@@ -93,6 +96,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0814-binary-tree-pruning) |
 ## Greedy
@@ -220,6 +224,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
