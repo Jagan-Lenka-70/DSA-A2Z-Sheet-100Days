@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0605-can-place-flowers) |
@@ -78,6 +79,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Tree
