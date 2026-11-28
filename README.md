@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0321-create-maximum-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0605-can-place-flowers) |
@@ -162,6 +164,7 @@
 | [0234-palindrome-linked-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
@@ -182,11 +185,13 @@
 | [0020-valid-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0321-create-maximum-number) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0321-create-maximum-number) |
 ## Timsort
 |  |
 | ------- |
