@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0881-boats-to-save-people) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
