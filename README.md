@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0101-symmetric-tree) |
+| [0322-coin-change](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0322-coin-change) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -80,6 +82,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -140,6 +143,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -306,4 +310,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0287-find-the-duplicate-number) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Jagan-Lenka-70/DSA-A2Z-Sheet-100Days/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
